@@ -4,6 +4,7 @@
 [Dean](https://deanlemans.github.io/)
 [Chiel](https://github.com/Chielekkuuuh)
 [Duke](https://github.com/DukeVZ)
+[John Pork](https://www.youtube.com/watch?v=FmOtrCRrlDA)
 
 ### Maaack Game Template
 ![Maaack Plugin Icon](/addons/maaacks_game_template/assets/plugin_logo/logo.png)  
